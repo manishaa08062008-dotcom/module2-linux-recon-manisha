@@ -103,5 +103,15 @@ Lab Observations
 Practical observations and screenshots will be added after completing exercises in the authorized learning environment.
 
 Conclusion
+## Practical Screenshots
+
+### DNS Configuration
+![DNS Configuration](Dns%20AAA.png)
+
+### Linux Commands
+![Linux Commands](ex%20linux.png)
+
+### Nmap Activity
+![Nmap Activity](nmap%20activity.png)
 
 This module helped me understand Linux basics, system permissions, DNS, reconnaissance concepts, and the purpose of commonly used cybersecurity tools. It improved my foundational knowledge of cybersecurity and safe lab practices.
